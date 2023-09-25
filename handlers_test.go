@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/oauth2-proxy/mockoidc"
+	"github.com/hut8/mockoidc"
 	"github.com/stretchr/testify/assert"
 )
 
